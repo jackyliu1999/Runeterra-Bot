@@ -1,0 +1,4 @@
+!livegame {summonerName} = returns information about summoner's current live game (champions, ally/enemy rankings)
+!info {summonerName} = returns summoner ID, account ID, summoner level, summoner icon and summoner icon ID
+!rank {summonerName} = returns rank information (ranking, wins, losses)
+!champion {summonerName} {champion} = returns mastery score for champion of input summoner

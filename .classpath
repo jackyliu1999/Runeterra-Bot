@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/JL/Programming/Java/External Jars/JDA-4.2.0_204-withDependencies.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-14.0.2/lib/jrt-fs.jar"/>
+	<classpathentry kind="lib" path="D:/JL/Programming/Java/External Jars/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/JL/Programming/Java/External Jars/orianna-4.0.0-rc7-jar-with-dependencies.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
